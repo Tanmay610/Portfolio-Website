@@ -64,7 +64,7 @@ Three.js • React • GSAP • WebGL
 ## 🛠️ Installation & Setup
 
 ```bash
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/tanmay610/portfolio-website.git
 cd portfolio-website
 npm install
 npm run dev
