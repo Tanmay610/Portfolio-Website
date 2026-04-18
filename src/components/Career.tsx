@@ -43,15 +43,15 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Social Media Manager</h4>
-                <h5>Car Detailing Studio</h5>
+                <h4>Social Media Executive</h4>
+                <h5>College Technical Club</h5>
               </div>
               <h3>2025</h3>
             </div>
             <p>
-              Led social media strategy, content creation, and 
-              branding to increase visibility and customer engagement 
-              for a local automotive business.
+              Managed social media content and engagement,
+              contributing to event promotions and improving 
+              digital reach within the student community.
             </p>
           </div>
         </div>

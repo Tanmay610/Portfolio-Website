@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website showcasing my work in AI, full-stack development, and creative web experiences.
 
-🔗 Live Website: http://localhost:5175/ 
+🔗 Live Website: http://localhost:5175/
 📂 Repository: https://github.com/tanmay610/portfolio-website
 
 ---
