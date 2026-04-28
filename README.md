@@ -63,8 +63,42 @@ Three.js • React • GSAP • WebGL
 
 ## 🛠️ Installation & Setup
 
+### Frontend Setup
+
 ```bash
 git clone https://github.com/tanmay610/portfolio-website.git
 cd portfolio-website
 npm install
 npm run dev
+```
+
+The frontend will be available at **http://localhost:5173/**
+
+### Backend Setup (Smart Traffic System)
+
+The backend for the Smart Traffic Prediction System is located in a separate repository.
+
+```bash
+cd /path/to/traffic_project/backend
+source .venv/bin/activate  # Activate Python virtual environment
+python main.py
+```
+
+The backend will be available at **http://127.0.0.1:8000**
+
+### Running Both Simultaneously
+
+**Terminal 1 - Frontend:**
+```bash
+cd portfolio-website
+npm run dev
+```
+
+**Terminal 2 - Backend:**
+```bash
+cd traffic_project/backend
+source .venv/bin/activate
+python main.py
+```
+
+Both servers will run with hot-reload enabled for development.
