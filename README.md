@@ -1,4 +1,4 @@
-# 🚀 Tanmay Khosla — Portfolio Website
+# 🚀 Tanmay Khosla — Portfolio Website 1
 
 Welcome to my personal portfolio website showcasing my work in AI, full-stack development, and creative web experiences.
 
