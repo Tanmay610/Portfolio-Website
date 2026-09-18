@@ -54,6 +54,19 @@ const Career = () => {
               digital reach within the student community.
             </p>
           </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4> Web Developer</h4>
+                <h5>Freelance</h5>
+              </div>
+              <h3>2026</h3>
+            </div>
+            <p>
+              Build modern, high-performance websites for businesses and startups, combining responsive design, 
+              interactive UI/UX, and modern web technologies to create polished digital experiences.
+            </p>
+          </div>
         </div>
       </div>
     </div>

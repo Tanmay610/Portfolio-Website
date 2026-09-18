@@ -24,18 +24,18 @@ const Work = () => {
       desc: "An intelligent voice-controlled AI assistant.",
     },
     {
-      title: "Project 3",
-      category: "Coming Soon",
-      tools: "",
-      image: "/images/placeholder.webp",
-      desc: "Work in progress...",
+      title: "FIXIT",
+      category: "AI-Powered Home Repair",
+      tools: "React • Vite • Tailwind CSS • Capacitor • Node.js • Express • TypeScript • Razorpay",
+      image: "/images/image.png",
+      desc: "AI-powered platform to diagnose and resolve household problems using image, text, or voice analysis.",
     },
     {
-      title: "Project 4",
-      category: "Coming Soon",
-      tools: "",
-      image: "/images/placeholder.webp",
-      desc: "Work in progress...",
+      title: "Shree Ji Stone Murty",
+      category: "E-commerce Catalog",
+      tools: "HTML5 • CSS • JavaScript • Node.js • Python",
+      image: "/images/shreeji.png",
+      desc: "A hybrid static-dynamic catalog website featuring automated catalog generation and WhatsApp order integration.",
     },
   ];
 
